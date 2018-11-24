@@ -47,6 +47,13 @@
 
 ### [](https://github.com/ChenQiqian/MathTask/blob/master/Task1/Task1.md#%E6%AF%94)比
 
+设点 $P(x_0,y_0)$ 到 $l_1,l_2$ 的距离 $d_1,d_2$ 之商 
+$$
+\frac{d_1}{d_2}=u
+$$
+
+----------
+
 #### 1.计算
 首先转换直线$l_1$的形式
 $$

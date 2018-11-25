@@ -18,7 +18,9 @@ https://github.com/ChenQiqian/MathTask
 
 ### 结构
 
-Task1 为第一个问题（线+线），Task2 为第二个问题（线+点）；文件夹内有 GeoGebra 源文件和截图等。
+Task1.pdf 为第一个问题（线+线）汇总，Task2.pdf 为第二个问题（线+点）汇总。
+
+两个文件夹内有 GeoGebra 源文件和截图等。
 
 ### 其他
 

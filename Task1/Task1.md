@@ -1,5 +1,3 @@
-
-
 ## 线+线
 
 ### 约定
@@ -27,7 +25,6 @@ $$
 d_1 + d_2 = u
 $$
 
-- - -
 #### 1.计算
 即为
 $$
@@ -48,7 +45,7 @@ y_0-kx_0 + \sqrt{k^2 + 1}x_0 = \sqrt{k^2+1}u\\\\
 y_0 = -(\sqrt{k^2+1} - k)x_0 +\sqrt{k^2+1}u
 $$
 #### 2.图像
-![](https://github.com/ChenQiqian/MathTask/blob/master/Task1/%E5%92%8C.png)
+
 
 ### 差
 
